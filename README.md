@@ -9,6 +9,6 @@ My understanding on serialization and deserialization:
 
 4.Similar to decoding, in block-chain we have deserialization. 
 
-5.Deserialization: It is the exact opposite to serialization, the process of reconstruction of the serialized data for it start making sense again is known as deserialization. 
+5.Deserialization: It is the exact opposite to serialization, the process of reconstruction of the serialized data for it to start making sense again is known as deserialization. 
 
 As per my understanding, keeping in mind the time limitations I came up with a code to deserialize the most basic serialized pattern. 
